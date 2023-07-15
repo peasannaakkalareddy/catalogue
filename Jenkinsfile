@@ -4,5 +4,3 @@ env.component="catalogue"
 // env.schema_dir=''
 nodejs()
 
-
-
